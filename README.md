@@ -1,2 +1,2 @@
 # yolimblog
-a repository fot personal blogs share
+the project is a repository fot personal blogs share
